@@ -1,0 +1,21 @@
+.problem {
+    fill: #155AA9; 
+  }
+  .problem:hover {
+    fill: #e6503c; 
+  }
+
+.st17{
+    fill: #155AA9; 
+  }
+  .st17:hover {
+    fill: #e6503c; 
+  }
+
+.st63 {
+    fill-opacity: 0.0;
+    
+}
+  .st63:hover {
+      fill-opacity: 1;
+  }
